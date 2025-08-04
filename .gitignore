@@ -1,5 +1,8 @@
 download_list.json
 
+#Macでファイル作成すると自動で作成されるファイル
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
