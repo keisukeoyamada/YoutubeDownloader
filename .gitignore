@@ -2,6 +2,7 @@ download_list.json
 client_secret.json
 token.json
 download_list_backup_at_*.json
+.vscode/*.json
 #Macでファイル作成すると自動で作成されるファイル
 .DS_Store
 
