@@ -10,4 +10,4 @@ google-auth-oauthlib==1.2.1
 googleapis-common-protos==1.66.0
 requests==2.32.3
 requests-oauthlib==2.0.0
-yt-dlp==2024.11.18
+yt-dlp>=2026.8.19
